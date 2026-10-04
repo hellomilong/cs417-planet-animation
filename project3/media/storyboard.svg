@@ -1,1 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="680" viewBox="0 0 1500 680"><rect width="1500" height="680" fill="#f4eedf"/><g transform="translate(0,0)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">01 / APPROACH</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="M 55 150 Q 85 30 120 150 Q 155 55 190 150" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="110" cy="90" rx="15" ry="15" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 100 81 Q 115 90 100 99" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">0–4.2 s · Loose, forward bounces</text></g><g transform="translate(500,0)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">02 / THE GAP</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="210" cy="137" rx="15" ry="15" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 200 128 Q 215 137 200 146" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">4.2–5.5 s · Hold at the edge</text></g><g transform="translate(1000,0)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">03 / BACK UP</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="M 220 110 L 145 110" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="150" cy="145" rx="21" ry="9" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 140 136 Q 155 145 140 154" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">5.5–8.8 s · Retreat, then crouch</text></g><g transform="translate(0,340)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">04 / COMMIT</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="M 190 150 Q 280 -40 375 150" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="280" cy="63" rx="15" ry="15" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 270 54 Q 285 63 270 72" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">8.8–11.6 s · Run-up and long leap</text></g><g transform="translate(500,340)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">05 / LAND</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="M 335 150 Q 350 55 375 150 Q 400 105 420 150" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="375" cy="143" rx="21" ry="9" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 365 134 Q 380 143 365 152" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">11.6–14.6 s · Impacts get smaller</text></g><g transform="translate(1000,340)"><rect x="12" y="12" width="476" height="316" rx="6" fill="none" stroke="#b7b0a1"/><text x="30" y="45" font-family="Arial" font-size="18" fill="#263a40">06 / REST</text><g transform="translate(0,55)"><path d="M 30 152 L 240 152 L 240 200 L 30 200 M 315 200 L 315 152 L 465 152 L 465 200" fill="none" stroke="#374a50" stroke-width="3"/><ellipse cx="420" cy="154" rx="25" ry="5" fill="none" stroke="#57866e" stroke-width="3"/><path d="" fill="none" stroke="#7d8b90" stroke-width="2" stroke-dasharray="6 5"/><ellipse cx="420" cy="137" rx="15" ry="15" fill="#d56b47" stroke="#623e31" stroke-width="2"/><path d="M 410 128 Q 425 137 410 146" fill="none" stroke="#f4eedf" stroke-width="2"/></g><text x="30" y="295" font-family="Arial" font-size="16" fill="#374a50">14.6–18 s · Settle on the target</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1050" viewBox="0 0 1040 1050"><rect width="1040" height="1050" fill="#101d23"/><g transform="translate(0,0)">
+ <defs><marker id="arrow0" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 55 163 Q 85 38 122 163 Q 156 83 185 163 Q 210 119 229 163" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow0)"/>
+ <ellipse cx="145" cy="116" rx="18" ry="20" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="146" cy="115" rx="20" ry="21" stroke="#9c5038" opacity=".22"/>
+ <path d="M136.9 98.8 Q155.8 116 136.9 133.2" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">01 / APPROACH</text><text x="23" y="53" font-size="17">0–3.6 s</text><text x="23" y="297" font-size="19">Bounces shrink; roll eases to a stop.</text></g></g><g transform="translate(520,0)">
+ <defs><marker id="arrow1" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 185 127 Q 213 108 243 130" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow1)"/>
+ <ellipse cx="228" cy="143" rx="17" ry="23" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="229" cy="142" rx="19" ry="24" stroke="#9c5038" opacity=".22"/>
+ <path d="M220.35 123.22 Q238.2 143 220.35 162.78" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">02 / NOTICE THE GAP</text><text x="23" y="53" font-size="17">3.6–4.6 s</text><text x="23" y="297" font-size="19">Lean toward the edge, then recoil.</text></g></g><g transform="translate(0,350)">
+ <defs><marker id="arrow2" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 228 166 L 145 166" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow2)"/>
+ <ellipse cx="143" cy="154" rx="25" ry="11" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="144" cy="153" rx="27" ry="12" stroke="#9c5038" opacity=".22"/>
+ <path d="M131.75 144.54 Q158.0 154 131.75 163.46" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">03 / BACK UP & LOAD</text><text x="23" y="53" font-size="17">4.6–7.75 s</text><text x="23" y="297" font-size="19">Roll back on the surface; crouch.</text></g></g><g transform="translate(520,350)">
+ <defs><marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 217 163 Q 281 -20 349 163" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow3)"/>
+ <ellipse cx="279" cy="66" rx="22" ry="17" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="280" cy="65" rx="24" ry="18" stroke="#9c5038" opacity=".22"/>
+ <path d="M269.1 51.38 Q292.2 66 269.1 80.62" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">04 / LEAP</text><text x="23" y="53" font-size="17">7.75–8.85 s</text><text x="23" y="297" font-size="19">Fast launch; clear the gap in one arc.</text></g></g><g transform="translate(0,700)">
+ <defs><marker id="arrow4" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 349 163 Q 371 82 391 163 Q 411 113 425 163" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow4)"/>
+ <ellipse cx="348" cy="155" rx="27" ry="10" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="349" cy="154" rx="29" ry="11" stroke="#9c5038" opacity=".22"/>
+ <path d="M335.85 146.4 Q364.2 155 335.85 163.6" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">05 / ABSORB & RECOVER</text><text x="23" y="53" font-size="17">8.85–12.45 s</text><text x="23" y="297" font-size="19">Heavy squash, smaller rebounds, roll.</text></g></g><g transform="translate(520,700)">
+ <defs><marker id="arrow5" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
+ <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
+ <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M28 164 L240 164 L259 149 L48 149 Z M28 164 L28 240 L240 240 L240 164 M240 240 L259 222 L259 149 M318 164 L465 164 L481 149 L335 149 Z M318 164 L318 240 L465 240 L465 164 M465 240 L481 222 L481 149"/>
+ <path d="M32 168 L236 167 M32 244 L237 243 M322 168 L461 168 M320 244 L463 244" opacity=".22"/>
+ <path d="M16 254 L483 254" stroke="#b9b0a1"/>
+ <ellipse cx="420" cy="158" rx="27" ry="7" stroke="#5e8266"/>
+ <path d="M 420 145 L 420 60" stroke="#9c5038" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow5)"/>
+ <ellipse cx="420" cy="93" rx="18" ry="23" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
+ <ellipse cx="421" cy="92" rx="20" ry="24" stroke="#9c5038" opacity=".22"/>
+ <path d="M411.9 73.22 Q430.8 93 411.9 112.78" stroke="#9c5038"/>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">06 / CELEBRATE & SETTLE</text><text x="23" y="53" font-size="17">12.45–16 s</text><text x="23" y="297" font-size="19">One happy hop; rebound and settle.</text></g></g></svg>
