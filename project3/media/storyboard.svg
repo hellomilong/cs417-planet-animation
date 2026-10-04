@@ -34,7 +34,7 @@
  <ellipse cx="143" cy="154" rx="25" ry="11" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
  <ellipse cx="144" cy="153" rx="27" ry="12" stroke="#9c5038" opacity=".22"/>
  <path d="M131.75 144.54 Q158.0 154 131.75 163.46" stroke="#9c5038"/>
- </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">03 / BACK UP & LOAD</text><text x="23" y="53" font-size="17">4.6–7.75 s</text><text x="23" y="297" font-size="19">Roll back on the surface; crouch.</text></g></g><g transform="translate(520,350)">
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">03 / BACK UP &amp; LOAD</text><text x="23" y="53" font-size="17">4.6–7.75 s</text><text x="23" y="297" font-size="19">Roll back on the surface; crouch.</text></g></g><g transform="translate(520,350)">
  <defs><marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
  <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
  <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -58,7 +58,7 @@
  <ellipse cx="348" cy="155" rx="27" ry="10" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
  <ellipse cx="349" cy="154" rx="29" ry="11" stroke="#9c5038" opacity=".22"/>
  <path d="M335.85 146.4 Q364.2 155 335.85 163.6" stroke="#9c5038"/>
- </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">05 / ABSORB & RECOVER</text><text x="23" y="53" font-size="17">8.85–12.45 s</text><text x="23" y="297" font-size="19">Heavy squash, smaller rebounds, roll.</text></g></g><g transform="translate(520,700)">
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">05 / ABSORB &amp; RECOVER</text><text x="23" y="53" font-size="17">8.85–12.45 s</text><text x="23" y="297" font-size="19">Heavy squash, smaller rebounds, roll.</text></g></g><g transform="translate(520,700)">
  <defs><marker id="arrow5" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#9c5038" stroke-width="1.3"/></marker></defs>
  <rect width="500" height="330" rx="5" fill="#f6f0e1"/>
  <g fill="none" stroke="#35464b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
@@ -70,4 +70,4 @@
  <ellipse cx="420" cy="93" rx="18" ry="23" fill="#e7b89f" stroke="#9c5038" stroke-width="2.2"/>
  <ellipse cx="421" cy="92" rx="20" ry="24" stroke="#9c5038" opacity=".22"/>
  <path d="M411.9 73.22 Q430.8 93 411.9 112.78" stroke="#9c5038"/>
- </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">06 / CELEBRATE & SETTLE</text><text x="23" y="53" font-size="17">12.45–16 s</text><text x="23" y="297" font-size="19">One happy hop; rebound and settle.</text></g></g></svg>
+ </g><g fill="#35464b" font-family="Arial,sans-serif"><text x="23" y="29" font-size="19" font-weight="bold">06 / CELEBRATE &amp; SETTLE</text><text x="23" y="53" font-size="17">12.45–16 s</text><text x="23" y="297" font-size="19">One happy hop; rebound and settle.</text></g></g></svg>
