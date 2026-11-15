@@ -10,14 +10,10 @@
 <section><h2>The picture</h2><div class="pair"><figure><img class="pixel" src="media/picture-24x28.png" width="240" height="280" alt="A 24 by 28 pixel picture of Hello Kitty on a pink background"><figcaption>Input: 24 × 28 pixels, one per domino. Made in Python with Pillow, each pixel snapped to one of 6 colours.</figcaption></figure><figure><img src="media/render.jpg" width="960" height="540" loading="lazy" alt="Arnold render of the fallen dominoes forming Hello Kitty"><figcaption>Frame 300, rendered in Arnold.</figcaption></figure></div></section>
 
 <section class="note"><h2>How the script works</h2><ol>
-<li><b>Picture:</b> <code>fileDialog2</code> picks the image; its size sets the grid.</li>
-<li><b>Dominoes:</b> a MASH network copies one box into the grid.</li>
-<li><b>Colour:</b> a MASH Color node gives each domino its pixel's colour.</li>
-<li><b>Physics:</b> MASH Dynamics adds gravity and collisions.</li>
-<li><b>Push:</b> a keyed log rolls into the first column.</li>
-<li><b>Camera:</b> keyed from low in front to straight overhead.</li>
-<li><b>Floor and lighting:</b> a grey floor, a sun light with shadows, and a soft fill light.</li>
-<li><b>Output:</b> <code>confirmDialog</code> asks Playblast (the video) or Render (all 300 frames in Arnold).</li></ol>
+<li><b>Pick a picture.</b> Each pixel becomes one domino.</li>
+<li><b>Build the scene.</b> MASH lines up the coloured dominoes and adds physics, a floor, lights and a camera.</li>
+<li><b>Push.</b> A log knocks the first column, and every row falls in a chain.</li>
+<li><b>Save.</b> Choose a quick video or a full Arnold render.</li></ol>
 <a class="download" href="media/hello_kitty_dominoes.py" download>Download the Python script</a></section>
 
 <section><h2>Extra credit</h2><p><code>fileDialog2</code> picks the picture, and the grid size comes from its pixel size.</p></section>
